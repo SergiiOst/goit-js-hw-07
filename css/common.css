@@ -148,7 +148,7 @@ h2 {
 
 #controls input {
   width: 150px;
-  padding: 8px 72px;
+  padding: 8px 0 8px 72px;
   border-radius: 8px;
   border: 1px solid #808080;
   color: #2e2f42;
